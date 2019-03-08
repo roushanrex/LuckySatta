@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "184867896810",
+    "firebase_url": "https://satta-30e94.firebaseio.com",
+    "project_id": "satta-30e94",
+    "storage_bucket": "satta-30e94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184867896810:android:8a8b915043367f7a",
+        "android_client_info": {
+          "package_name": "com.example.roushan.satta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184867896810-1t1udq8umdsvu14rc0h7ekh534cn4gam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roushan.satta",
+            "certificate_hash": "57ae6e9072d14812515aa14f5530189056815cd7"
+          }
+        },
+        {
+          "client_id": "184867896810-gmfepk6q7sighd77ptbmloh936n47d83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSCzMGaj3JSEz0Pd3XD5iFXbcsKAlQN34"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184867896810-gmfepk6q7sighd77ptbmloh936n47d83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
